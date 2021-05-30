@@ -10,6 +10,8 @@
 
 [Nextjs + typescript +styled-components | Renan Aguiar | Jun 2, 2020 : DEV.to](https://dev.to/rffaguiar/nextjs-typescript-styled-components-1i3m)
 
+[Absolute Imports and Module path aliases | Vercel](https://nextjs.org/docs/advanced-features/module-path-aliases)
+
 ---
 
 🕳️ _nosedive_
