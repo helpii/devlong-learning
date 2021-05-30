@@ -6,6 +6,8 @@ skyrocket
 
 [Next.js + Styled Components The Really Simple Guide ▲ + 💅 | Adrian Prieto | Jun 27, 2018 : DEV.to ](https://dev.to/aprietof/nextjs--styled-components-the-really-simple-guide----101c)
 
+[Naming Styled Components | Orry Baram | Aug 10, 2018 : Medium](https://medium.com/inturn-eng/naming-styled-components-d7097950a245)
+
 ---
 
 nosedive
