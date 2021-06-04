@@ -6,17 +6,19 @@ https://www.whatsmydns.net/#NS/
 
 🚀 _skyrocket_ 
 
-[Build responsive PWA using Next.js | Rocky Li | Nov 5, 2020 : Medium](https://rockyli.medium.com/build-responsive-pwa-using-next-js-ac437adac5b3) 
+[Build responsive PWA using Next.js | Rocky Li (Nov 5, 2020) | Medium](https://rockyli.medium.com/build-responsive-pwa-using-next-js-ac437adac5b3) 
 
-[Moving from SCSS to styled-components: Advantages and caveats | Eslam Hefnawy | May 4, 2020 : LogRocket]()
+[Moving from SCSS to styled-components: Advantages and caveats | Eslam Hefnawy (May 4, 2020) | LogRocket]()
 
-[Next.js + Styled Components The Really Simple Guide ▲ + 💅 | Adrian Prieto | Jun 27, 2018 : DEV.to](https://dev.to/aprietof/nextjs--styled-components-the-really-simple-guide----101c)
+[Next.js + Styled Components The Really Simple Guide ▲ + 💅 | Adrian Prieto (Jun 27, 2018) | DEV.to](https://dev.to/aprietof/nextjs--styled-components-the-really-simple-guide----101c)
 
-[Naming Styled Components | Orry Baram | Aug 10, 2018 : Medium](https://medium.com/inturn-eng/naming-styled-components-d7097950a245)
+[Naming Styled Components | Orry Baram (Aug 10, 2018) | Medium](https://medium.com/inturn-eng/naming-styled-components-d7097950a245)
 
-[Nextjs + typescript +styled-components | Renan Aguiar | Jun 2, 2020 : DEV.to](https://dev.to/rffaguiar/nextjs-typescript-styled-components-1i3m)
+[Nextjs + typescript +styled-components | Renan Aguiar (Jun 2, 2020) | DEV.to](https://dev.to/rffaguiar/nextjs-typescript-styled-components-1i3m)
 
 [Absolute Imports and Module path aliases | Vercel](https://nextjs.org/docs/advanced-features/module-path-aliases)
+
+[Theme with styled-components and Typescript | Ethan Nguyen (Jul 14, 2020) | Medium](https://medium.com/rbi-tech/theme-with-styled-components-and-typescript-209244ec15a3)
 
 ---
 
