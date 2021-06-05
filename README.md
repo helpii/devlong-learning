@@ -24,7 +24,7 @@ https://www.whatsmydns.net/#NS/
 
 [Building Next Generation Apps with Next.js and MongoDB | Vercel (Nov 17, 2020) | Youtube](https://www.youtube.com/watch?v=MOqkfQIMdLE)
 
-[Integrating MongoDB Into Your NextJS App | MongoDB (Jan 21, 2021)](https://www.youtube.com/watch?v=aAupumVpqcE)
+[Integrating MongoDB Into Your NextJS App | MongoDB (Jan 21, 2021) | Youtube](https://www.youtube.com/watch?v=aAupumVpqcE)
 
 ---
 
