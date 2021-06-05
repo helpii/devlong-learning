@@ -20,6 +20,8 @@ https://www.whatsmydns.net/#NS/
 
 [Theme with styled-components and Typescript | Ethan Nguyen (Jul 14, 2020) | Medium](https://medium.com/rbi-tech/theme-with-styled-components-and-typescript-209244ec15a3)
 
+[Code/Drops #54: Serverless com ReactJS e Next.js na Vercel | Rocketseat (Sep 9, 2020) | Youtube](https://www.youtube.com/watch?v=Cz55Jmhfw84)
+
 ---
 
 🕳️ _nosedive_
