@@ -22,6 +22,10 @@ https://www.whatsmydns.net/#NS/
 
 [Code/Drops #54: Serverless com ReactJS e Next.js na Vercel | Rocketseat (Sep 9, 2020) | Youtube](https://www.youtube.com/watch?v=Cz55Jmhfw84)
 
+[Building Next Generation Apps with Next.js and MongoDB | Vercel (Nov 17, 2020) | Youtube](https://www.youtube.com/watch?v=MOqkfQIMdLE)
+
+[Integrating MongoDB Into Your NextJS App | MongoDB (Jan 21, 2021)](https://www.youtube.com/watch?v=aAupumVpqcE)
+
 ---
 
 🕳️ _nosedive_
