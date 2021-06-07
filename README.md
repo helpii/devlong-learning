@@ -26,6 +26,8 @@ https://www.whatsmydns.net/#NS/
 
 [Integrating MongoDB Into Your NextJS App | MongoDB (Jan 21, 2021) | Youtube](https://www.youtube.com/watch?v=aAupumVpqcE)
 
+[How to create a Timeline Component in React | Thi Than (Sep 9, 2019) | Medium](https://medium.com/tinyso/how-to-create-a-timeline-component-with-reactjs-779520c81209)
+
 ---
 
 🕳️ _nosedive_
