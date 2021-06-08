@@ -1,3 +1,10 @@
+✒ _ux_
+
+[sample]()
+
+---
+
+
 🌐 _resources_
 
 https://www.whatsmydns.net/#NS/
