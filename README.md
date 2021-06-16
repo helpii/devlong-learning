@@ -22,6 +22,8 @@
 
 [How to create a Timeline Component in React | Thi Than (Sep 9, 2019) | Medium](https://medium.com/tinyso/how-to-create-a-timeline-component-with-reactjs-779520c81209)
 
+[Tipos de Parâmetros nas requisições REST | Thiago Marinho (Ago 2020) | Blog Rocketseat](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
+
 ---
 
 🕳️ _nosedive_
