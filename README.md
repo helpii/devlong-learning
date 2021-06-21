@@ -20,11 +20,11 @@
 
 [Integrating MongoDB Into Your NextJS App | MongoDB (Jan 21, 2021) | Youtube](https://www.youtube.com/watch?v=aAupumVpqcE)
 
-[How to create a Timeline Component in React | Thi Than (Sep 9, 2019) | Medium](https://medium.com/tinyso/how-to-create-a-timeline-component-with-reactjs-779520c81209)
-
 [Tipos de Parâmetros nas requisições REST | Thiago Marinho (Ago 2020) | Blog Rocketseat](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
 
 [Realtime Chat With Users & Rooms - Socket.io, Node & Express | Traversy Media (Mar 24, 2020) | Youtube](https://www.youtube.com/watch?v=jD7FnbI76Hg)
+
+[Real time websockets connection with Nodejs (Chat App example) | Mustafa Anas (Jan 9, 2020) | DEV.to](https://dev.to/mustafaanaskh99/real-time-websockets-connection-with-nodejs-chat-app-example-5emh)
 
 ---
 
