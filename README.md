@@ -24,8 +24,6 @@
 
 [Tipos de Parâmetros nas requisições REST | Thiago Marinho (Ago 2020) | Blog Rocketseat](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
 
-[Do Vercel Serverless Functions support WebSocket connections? (No.) | Vercel](https://vercel.com/support/articles/do-vercel-serverless-functions-support-websocket-connections)
-
 ---
 
 🕳️ _nosedive_
