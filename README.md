@@ -24,6 +24,8 @@
 
 [Tipos de Parâmetros nas requisições REST | Thiago Marinho (Ago 2020) | Blog Rocketseat](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
 
+[Realtime Chat With Users & Rooms - Socket.io, Node & Express | Traversy Media (Mar 24, 2020) | Youtube](https://www.youtube.com/watch?v=jD7FnbI76Hg)
+
 ---
 
 🕳️ _nosedive_
