@@ -33,3 +33,5 @@
 [err | Next.js | How to serialize data from getStaticProps](https://stackoverflow.com/questions/66106776/error-how-to-serialize-data-from-getstaticprops-next-js)
 
 [err | Next.js | getServerSideProps error: "Reason: `undefined` cannot be serialized as JSON. Please use `null` or omit this value all together."](https://github.com/vercel/next.js/discussions/11209)
+
+✴ [err | ENV | ERR_SSL_PROTOCOL_ERROR when i try to connect with localhost](https://stackoverflow.com/questions/58003508/err-ssl-protocol-error-when-i-try-to-connect-with-localhost)
