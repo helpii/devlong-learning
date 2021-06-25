@@ -36,4 +36,5 @@
 
 ✴ [err | ENV | ERR_SSL_PROTOCOL_ERROR when i try to connect with localhost](https://stackoverflow.com/questions/58003508/err-ssl-protocol-error-when-i-try-to-connect-with-localhost)
 
-[err | node-gyp is not recognized as an internal or external command](https://stackoverflow.com/questions/52106262/node-pre-gyp-err-while-trying-to-npm-install/52113884)
+[err | node-gyp is not recognized as an internal or external command](https://stackoverflow.com/questions/52106262/node-pre-gyp-err-while-trying-to-npm-install/52113884) 
+alt-case: delete the repository and clone it again
