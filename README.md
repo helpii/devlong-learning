@@ -26,6 +26,8 @@
 
 ✴ [Realtime Chat App (React, GraphQL & Websockets) | Traversy Media (Aug 17, 2020) | Youtube](https://www.youtube.com/watch?v=E3NHd-PkLrQ&list=WL&index=15&t=1843s)
 
+[Creating a Node Serverless API using Vercel | James Perkins (Jul 7, 2020) | Youtube](https://www.youtube.com/watch?v=BhArBPtW6Ms)
+
 ---
 
 🕳️ _nosedive_
