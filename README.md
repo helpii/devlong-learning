@@ -26,7 +26,9 @@
 
 ✴ [Realtime Chat App (React, GraphQL & Websockets) | Traversy Media (Aug 17, 2020) | Youtube](https://www.youtube.com/watch?v=E3NHd-PkLrQ&list=WL&index=15&t=1843s)
 
-[Creating a Node Serverless API using Vercel | James Perkins (Jul 7, 2020) | Youtube](https://www.youtube.com/watch?v=BhArBPtW6Ms)
+[Creating a Node Serverless API using Vercel | James Perkins (Jul 7, 2020) | Youtube](https://www.youtube.com/watch?v=BhArBPtW6Ms) 
+
+[Simplest way to embed a Youtube video in your React app | bravemaster619 (Dec 17, 2020) | DEV.to](https://dev.to/bravemaster619/simplest-way-to-embed-a-youtube-video-in-your-react-app-3bk2)
 
 ---
 
