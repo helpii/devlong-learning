@@ -42,3 +42,5 @@
 
 [err | node-gyp is not recognized as an internal or external command](https://stackoverflow.com/questions/52106262/node-pre-gyp-err-while-trying-to-npm-install/52113884) 
 alt-case: delete the repository and clone it again
+
+[Python app does not print anything when running detached in docker](https://stackoverflow.com/questions/29663459/python-app-does-not-print-anything-when-running-detached-in-docker)
