@@ -30,6 +30,10 @@
 
 [Simplest way to embed a Youtube video in your React app | bravemaster619 (Dec 17, 2020) | DEV.to](https://dev.to/bravemaster619/simplest-way-to-embed-a-youtube-video-in-your-react-app-3bk2)
 
+✴ [You MUST WATCH THIS before installing PYTHON | Python Programmer (Jun 17, 2020) | Youtube](https://www.youtube.com/watch?v=28eLP22SMTA)
+
+✴ [Best Practice for virtualenv and git repo | libzx.so (Mar 13, 2016)](https://libzx.so/main/learning/2016/03/13/best-practice-for-virtualenv-and-git-repos.html)
+
 ---
 
 🕳️ _nosedive_
