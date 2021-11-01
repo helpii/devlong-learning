@@ -38,6 +38,8 @@
 
 ✴ [Best Practice for virtualenv and git repo | libzx.so (Mar 13, 2016)](https://libzx.so/main/learning/2016/03/13/best-practice-for-virtualenv-and-git-repos.html)
 
+[How to install pip for Python 3 on Mac OS X? | StackOverflow](https://stackoverflow.com/questions/20082935/how-to-install-pip-for-python-3-on-mac-os-x)
+
 ---
 
 🕳️ _nosedive_
