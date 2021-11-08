@@ -46,6 +46,8 @@
 
 [CSS 100% height with padding/margin](https://stackoverflow.com/questions/485827/css-100-height-with-padding-margin)
 
+[Double Pipe in a Switch Case Javascript](https://stackoverflow.com/questions/18995164/double-pipe-in-a-switch-case-javascript)
+
 ---
 
 🕳️ _nosedive_
