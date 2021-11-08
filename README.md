@@ -48,6 +48,8 @@
 
 [Double Pipe in a Switch Case Javascript](https://stackoverflow.com/questions/18995164/double-pipe-in-a-switch-case-javascript)
 
+✴ [React: Smart component API with conditional props and TypeScript](https://isamatov.com/conditional-props-react-typescript/)
+
 ---
 
 🕳️ _nosedive_
