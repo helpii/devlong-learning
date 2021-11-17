@@ -52,6 +52,8 @@
 
 [Clip scrollbar inside rounded div corners CSS | StackOverflow](https://stackoverflow.com/questions/60162891/clip-scrollbar-inside-rounded-div-corners-css?noredirect=1&lq=1)
 
+✴ [No overload matches this call for attrs styled components | StackOverflow (2020)](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/42691#issuecomment-642132643)
+
 ---
 
 🕳️ _nosedive_
