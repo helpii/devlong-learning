@@ -46,9 +46,11 @@
 
 [CSS 100% height with padding/margin](https://stackoverflow.com/questions/485827/css-100-height-with-padding-margin)
 
-[Double Pipe in a Switch Case Javascript](https://stackoverflow.com/questions/18995164/double-pipe-in-a-switch-case-javascript)
+[Double Pipe in a Switch Case Javascript | StackOverflow](https://stackoverflow.com/questions/18995164/double-pipe-in-a-switch-case-javascript)
 
 ✴ [React: Smart component API with conditional props and TypeScript](https://isamatov.com/conditional-props-react-typescript/)
+
+[Clip scrollbar inside rounded div corners CSS | StackOverflow](https://stackoverflow.com/questions/60162891/clip-scrollbar-inside-rounded-div-corners-css?noredirect=1&lq=1)
 
 ---
 
