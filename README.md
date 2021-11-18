@@ -6,7 +6,7 @@
 
 ▶️ [Convert image to the SVG format](https://image.online-convert.com/convert-to-svg) 
 
-▶️ [Edit SVG Color](https://iconscout.com/icon-editor)
+▶️ [Edit SVG Color](https://iconscout.com/icon-editor) or [this one](https://www.pngtosvg.com/)
 
 [Build responsive PWA using Next.js | Rocky Li (Nov 5, 2020) | Medium](https://rockyli.medium.com/build-responsive-pwa-using-next-js-ac437adac5b3)
 
