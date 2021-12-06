@@ -54,7 +54,9 @@
 
 ✴ [No overload matches this call for attrs styled components | StackOverflow (2020)](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/42691#issuecomment-642132643)
 
-✴ [Accessing LocalStorage in NextJS | Ibrahim Adeniyi (Oct 5, 2020) | DEV.to](https://dev.to/dendekky/accessing-localstorage-in-nextjs-39he)
+[Accessing LocalStorage in NextJS | Ibrahim Adeniyi (Oct 5, 2020) | DEV.to](https://dev.to/dendekky/accessing-localstorage-in-nextjs-39he)
+
+✴ [Lodash .get() Method | GeeksForGeeks (Sep 10, 2020)](https://www.geeksforgeeks.org/lodash-_-get-method/)
 
 ---
 
