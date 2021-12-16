@@ -72,3 +72,5 @@
 alt-case: delete the repository and clone it again
 
 [Python app does not print anything when running detached in docker](https://stackoverflow.com/questions/29663459/python-app-does-not-print-anything-when-running-detached-in-docker)
+
+[Unhandled Rejection (TypeError): Cannot read property 'roles' of null](https://github.com/the-road-to-react-with-firebase/react-firebase-authentication/issues/24)
